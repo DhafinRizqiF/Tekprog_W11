@@ -1,0 +1,20 @@
+{
+    {
+    "nim"   : "211524007",
+    "gender": "Laki-laki",
+    "kelas" : "1",
+    "nama"  : "Dhafin Rizqi Fadhillah",
+    },
+    {
+    "nim"   : "211524008",
+    "gender": "Laki-laki",
+    "kelas" : "2",
+    "nama": "Fadhil Radja Assyidiq",
+    },
+    {
+    "nim"   : "211524028",
+    "gender": "Perempuan",
+    "kelas" : "3",
+    "nama": "Tabitha Salsabila Permana",
+    }
+}
